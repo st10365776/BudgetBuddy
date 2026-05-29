@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BudgetBuddy</string>
+    <string name="login_title">Welcome Back</string>
+    <string name="login_subtitle">Login to continue managing your finances</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="social_google">Google</string>
+    <string name="social_facebook">Facebook</string>
+    <string name="register_prompt">Don\'t have an account? Register</string>
+    <string name="register_title">Register</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="btn_register">Register</string>
+    <string name="login_prompt">Already have an account? Login here</string>
+    <string name="welcome_msg">Welcome!</string>
+    <string name="btn_logout">Logout</string>
+</resources>
